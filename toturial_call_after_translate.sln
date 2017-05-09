@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "toturial_call_after_translate", "toturial_call_after_translate\toturial_call_after_translate.csproj", "{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55E1DA2-0939-4156-9E1F-7E638B5FFDFC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
