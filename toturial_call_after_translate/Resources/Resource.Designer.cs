@@ -57,6 +57,34 @@ namespace toturial_call_after_translate
 			}
 		}
 		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f050003
+			public const int CallButton = 2131034115;
+			
+			// aapt resource value: 0x7f050004
+			public const int CallHistoryButton = 2131034116;
+			
+			// aapt resource value: 0x7f050001
+			public const int PhoneNumberText = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int TranlateButton = 2131034114;
+			
+			// aapt resource value: 0x7f050000
+			public const int textView1 = 2131034112;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
 		public partial class Layout
 		{
 			
@@ -81,6 +109,9 @@ namespace toturial_call_after_translate
 			
 			// aapt resource value: 0x7f040000
 			public const int Hello = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int callHistory = 2130968578;
 			
 			static String()
 			{

@@ -2,4 +2,5 @@
 <resources>
     <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">toturial_call_after_translate</string>
+    <string name="callHistory">Call History</string>
 </resources>

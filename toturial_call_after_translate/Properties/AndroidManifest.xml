@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="toturial_call_after_translate.toturial_call_after_translate" android:versionCode="1" android:versionName="1.0">
-  <uses-sdk android:minSdkVersion="16" />
-  <application android:label="toturial_call_after_translate"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="toturial_call_after_translate.toturial_call_after_translate" android:versionCode="1" android:versionName="1.0" android:installLocation="internalOnly">
+	<uses-sdk android:minSdkVersion="16" />
+	<uses-permission android:name="android.permission.CALL_PHONE" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<application android:label="toturial_call_after_translate" android:icon="@drawable/Icon"></application>
 </manifest>
